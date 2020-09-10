@@ -1,3 +1,6 @@
-# Your blog
+# My Website testing
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+This is my repository for my own website, host with github. For testing purpose:
+
+* _config.yml
+* index.md
